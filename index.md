@@ -24,10 +24,25 @@ I'm Dr. Zhiyuan Pei (Matt for easy remember), currently an associate professor i
 6. Pei Zhiyuan, Fan Junhui*, Bastieri Denis* et al., [The relationship between the radio core-dominance parameter and spectral index in different classes of extragalactic radio sources (III)](https://iopscience.iop.org/article/10.1088/1674-4527/20/2/25), Research in Astronomy and Astrophysics, 2020, 20, 025;
 7. Pei Zhiyuan, Fan Junhui*, Bastieri Denis et al., [The relationship between the radio core-dominance parameter and spectral index in different classes of extragalactic radio sources (II)](https://iopscience.iop.org/article/10.1088/1674-4527/19/5/70), Research in Astronomy and Astrophysics, 2019, 19, 70.
 
+# Collaboration Papers
 
-# Teaching
+1. LHAASO Collaboration, [A tera-electron volt afterglow from a narrow jet in an extremely bright gamma-ray burst](https://www.science.org/doi/10.1126/science.adg9328), Science, 2023, 380, 1390; 
+2. LHAASO Collaboration, [The First LHAASO Catalog of Gamma-Ray Sources](https://arxiv.org/pdf/2305.17030.pdf), arXiv:2305.17030, 2023;
+3. FERMI-LAT Collaboration, [A gamma-ray pulsar timing array constrains the nanohertz gravitational wave background](https://www.science.org/doi/epdf/10.1126/science.abm3231), Science, 2022, 376, 521;
+4. FERMI-LAT Collaboration, [A gamma-ray pulsar timing array constrains the nanohertz gravitational wave background](https://www.science.org/doi/epdf/10.1126/science.abm3231),  
+Science, 2022, 376, 521;
+5. LHAASO Collaboration, [Peta-electron volt gamma-ray emission from the Crab Nebula](https://www.science.org/doi/epdf/10.1126/science.abg5137), Science, 2021, 373, 425;
+6. LHAASO Collaboration, [Ultrahigh-energy photons up to 1.4 petaelectronvolts from 12 γ-ray Galactic sources](https://www.nature.com/articles/s41586-021-03498-z), Nature, 2021, 594, 33;
+7. FERMI-LAT Collaboration, [High-energy emission from a magnetar giant flare in the Sculptor galaxy](https://www.nature.com/articles/s41550-020-01287-8), Nature Astronomy, 2021, 5, 385.
 
-* [复变函数与积分变换](http://www.gzhu.edu.cn/)
+.... .... .... .... .... .... .... .... ....
+
+# Teaching (Undergraduate)
+
+* [Functions of Complex Variables and Integral Transforms (复变函数与积分变换)](http://www.gzhu.edu.cn/), 2022-2023(I); 2023-2024(I) 
 * 大学物理（理论）
 * 天文学导论
 
+| **Date**                                                               | **Slides**                                                                                |
+|:-------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:|
+| Sep. 9 | Introduction |
