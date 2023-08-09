@@ -3,15 +3,17 @@
 
 # Welcome to my work-page
 
-I'm Dr. Zhiyuan Pei, currently an associate professor in the divison of astronomy, school of physics and materials science, Guangzhou University (China). 
+I'm Dr. Zhiyuan Pei (Matt for easy remember), currently an associate professor in the divison of astronomy, school of physics and materials science, Guangzhou University (China). My reaerch focuses on active galactic nuclei and high energy process/mechanism in extragalactic astrophysics, manily lying in relativistic jets, black holes and accretion, TeV and neutrino emission physics.   
 
 ![](标题图.jpg)
 
-# 关于 blog-demos 代码仓库
+# Something about me
 
-1. Github地址：[https://github.com/gozhuyinglong/blog-demos](https://github.com/gozhuyinglong/blog-demos/)
-2. Gitee地址：[https://gitee.com/gozhuyinglong/blog-demos](https://gitee.com/gozhuyinglong/blog-demos)
-3. 这个代码仓库里是博客中涉及的源码、文件
+1. You can find my curriculum vitae here：[CV]([https://github.com/gozhuyinglong/blog-demos/](http://spee.gzhu.edu.cn/sz/rylb.htm))  
+2. 个人简历（网页版本）
+
+
+
 # 关于 blog-demos 代码仓库
 
 1. Github地址：[https://github.com/gozhuyinglong/blog-demos](https://github.com/gozhuyinglong/blog-demos/)
