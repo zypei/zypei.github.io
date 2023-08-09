@@ -1,6 +1,6 @@
 # Welcome to my work-page
 
-人生就是一个不断学习的过程，通过学习来充实自己的头脑，让自己更有智慧的生活下去，去探索那未知领域的神秘，去享受成长带来的快乐和惬意。
+I'm Dr. Zhiyuan Pei, currently an associate professor in the divison of astronomy, school of physics and materials science, Guangzhou University (China). 
 
 ![](标题图.jpg)
 
