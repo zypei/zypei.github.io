@@ -1,4 +1,4 @@
-# Matt Zhiyuan Pei (裴致远) Twilight Zone
+# Matt Zhiyuan Pei Twilight Zone
 
 # Welcome to my work-page
 
