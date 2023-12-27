@@ -39,8 +39,8 @@ Science, 2022, 376, 521;
 
 # Teaching (Undergraduate)
 
-* [Functions of Complex Variables and Integral Transforms (复变函数与积分变换)](http://www.gzhu.edu.cn/), 2022-2023(I); 2023-2024(I) 
-* 大学物理（理论）
+* [Functions of Complex Variables and Integral Transforms (复变函数与积分变换)](http://www.gzhu.edu.cn/), 2020-2021(I); 2021-2022(I); 2022-2023(I); 2023-2024(I) 
+* 大学物理（理论）, 2022-2023(I/II); 2023-2024(I/II)
 * 天文学导论
 
 | **Date**                                                               | **Slides**                                                                                |
